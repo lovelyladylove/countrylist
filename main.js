@@ -31,9 +31,6 @@ let ourButton = document.getElementById('button');
 console.log(ourButton);
 ourButton.addEventListener('click', addParagraph);
 
-// TODO
-// ---
-
 let todo = [
 	{ name: 'Germany', id: 0, done: false },
 	{ name: 'Philippines', id: 1, done: false },
